@@ -18,8 +18,8 @@
 <div class="container">
     <h1>Thông Tin Cá Nhân</h1>
     
-    <div class="info-item"><span class="info-label">Họ và Tên:</span> Trần Thị Hà Anh</div>
-    <div class="info-item"><span class="info-label">Ngành học:</span> Công nghệ thông tin / Máy tính</div>
+    <div class="info-item"><span class="info-label">Họ và Tên:</span> Nguyễn Hải Vân</div>
+    <div class="info-item"><span class="info-label">Ngành học:</span> Toán Ứng Dụng / Máy tính</div>
     <div class="info-item"><span class="info-label">Học phần:</span> Lập trình Web với PHP</div>
 
     <div class="projects">

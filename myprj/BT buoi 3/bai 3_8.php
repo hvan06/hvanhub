@@ -110,7 +110,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             width: 100%; padding: 10px 12px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; 
         }
         textarea { resize: vertical; height: 100px; }
-        .error { color: #dc3545; font-size: 13px; margin-top: 5px; display: block; }
+        .error { color: #e85fad; font-size: 13px; margin-top: 5px; display: block; }
         button { background: #1a73e8; color: white; border: none; padding: 12px; border-radius: 6px; cursor: pointer; font-weight: bold; width: 100%; font-size: 16px; margin-top: 10px; }
         button:hover { background: #1557b0; }
         .success-box { background: #e6f4ea; color: #137333; padding: 20px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #ceead6; }
