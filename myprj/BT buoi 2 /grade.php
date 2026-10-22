@@ -101,7 +101,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <form action="" method="POST">
         <div class="form-group">
             <label>Họ và Tên Sinh Viên:</label>
-            <input type="text" name="name" value="<?= htmlspecialchars($name) ?>" placeholder="Ví dụ: Trần Thị Hà Anh">
+            <input type="text" name="name" value="<?= htmlspecialchars($name) ?>" placeholder="Ví dụ: Nguyễn Hải Vân">
         </div>
 
         <div class="form-group">
